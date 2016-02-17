@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bank>
+        <name>Itau</name>
+        <image>logo_itau</image>
+    </bank>
+    <bank>
+        <name>Santander</name>
+        <image>logo_santander</image>
+    </bank>
+
+</resources>

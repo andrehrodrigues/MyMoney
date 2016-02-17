@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-361dd9c1ac1aa4bd9533e154dc3973d8f3aa6651.jar" />
+    </item>
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\classes-59a376320125057bb7639e57c0a79d23dfca92ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\andre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-2dd145f8d522ed8fa0c9a01e594e1e6c80b28a60.jar" />
+    </item>
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\classes-ddb035385193941359ed87c68f319febf1143a3c.jar" />
+    </item>
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\classes-6240c3a943b9ee5bab1dd98ef73fd88b2690872e.jar" />
+    </item>
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\libs\AndroidMask-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fdc8870816a9efd7750d2e90ecdd548654b31789">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\AndroidMask-1.0.0-2b13f16e836c5d8e8106638f8f464381d62ba52a.jar" />
+    </item>
+    <item
+        jar="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Desenvolvimento\Android\MyMoneyStudioVer\app\build\intermediates\pre-dexed\debug\classes-47b244f84103b8996ccb489d1f37674a79b0160a.jar" />
+    </item>
+
+</items>

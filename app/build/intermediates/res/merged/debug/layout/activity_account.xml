@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.AccountActivity" >
+
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="br.com.saturno.android.mymoney.Activities.AccountFragment"
+        android:id="@+id/account_fragment"
+        tools:layout="@layout/fragment_account" />
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="br.com.saturno.android.mymoney.Activities.AccountListFragment"
+        android:id="@+id/account_list_fragment"
+        tools:layout="@layout/fragment_account_list"/>
+
+</LinearLayout><!-- From: file:/D:/Desenvolvimento/Android/MyMoneyStudioVer/app/src/main/res/layout/activity_account.xml -->
